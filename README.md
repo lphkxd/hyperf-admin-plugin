@@ -1,5 +1,7 @@
 #### 欢迎加入hyperf-admin交流群，群聊号码：512465490
 
+# 本仓库已转移至 https://github.com/lphkxd/hyperf-admin 
+
 <p align="center">
     <a href="https://github.com/lphkxd/hyperf-admin-plugin/releases"><img src="https://poser.pugx.org/mzh/hyperf-admin-plugin/v/stable" alt="Stable Version"></a>
     <a href="https://travis-ci.org/mzh/hyperf-admin-plugin"><img src="https://travis-ci.org/mzh/hyperf-admin-plugin.svg?branch=master" alt="Build Status"></a>
